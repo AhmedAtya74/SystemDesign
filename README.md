@@ -1,9 +1,24 @@
 # System Design
 Systems design a procedure by which we define the architecture of a system to satisfy given requirements. It is a technique by which the required amounts of scalability, reliability, performance and consistency are satisfied in real world systems.
 
-We discuss how to start with system design and why it is required ?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## System Design Concepts
+- Scalability
+-
+-
+-
+-
 
-1. Scalability
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+### Scalability
   - Vertical scaling
   - Horizontal scaling
 
@@ -21,3 +36,5 @@ and so on
 **this called Vertical scaling.**
 
 But if manager decided to **open another restaurant** to handle number of customers **this called Horizontal scaling.**
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
