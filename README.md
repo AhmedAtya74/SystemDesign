@@ -22,19 +22,21 @@ Systems design a procedure by which we define the architecture of a system to sa
   - Vertical scaling
   - Horizontal scaling
 
-We would introcuce Scalability concept by Pizza restaurant, WoW I LIKE IT SO MUCH.
+We would introduce Scalability concept by Pizza restaurant, WoW I LIKE IT SO MUCH.
 
 ![image](https://user-images.githubusercontent.com/64374947/137215027-50252638-023d-4bcf-9002-a83ff9510934.png)
 
-Assume in this restaurant there are one cheif to preparing pizaa, when we opend this restaurant there are 5 customer come per hour and cheif is enable to serve them
+Assume in this restaurant there are one chief to preparing pizaa, when we opend this restaurant there are 5 customer come per hour and chief is enable to serve them
 
-but after month there are 30 cutomer come per hour and cheif is not able to serve all these orders so manager decided to hire another 2 cheif <br>
-but after two weeks there are 70 customer come per hour and manager manager decided to hire another 2 cheif <br>
+but after month there are 30 cutomer come per hour and chief is not able to serve all these orders so manager decided to hire another 2 chief <br>
+but after two weeks there are 70 customer come per hour and manager manager decided to hire another 2 chief <br>
 but ... <br>
-and so on
+and so on.
 
-**this called Vertical scaling.**
+**this solution called Vertical scaling.**
 
-But if manager decided to **open another restaurant** to handle number of customers **this called Horizontal scaling.**
+But if manager decided to **open another restaurant** to handle number of customers **this solution called Horizontal scaling.**
+
+Purpose of Scalability handling huge number of orders.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
