@@ -4,6 +4,8 @@ Systems design a procedure by which we define the architecture of a system to sa
 We discuss how to start with system design and why it is required ?
 
 1. Scalability
+  - Vertical scaling
+  - Horizontal scaling
 
 We would introcuce Scalability concept by Pizza restaurant, WoW I LIKE IT SO MUCH.
 
