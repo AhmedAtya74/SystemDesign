@@ -37,6 +37,16 @@ But if manager decided to **open another restaurant** to handle number of custom
 
 Purpose of Scalability handling huge number of orders.
 
+## Vertical Scaling Vs Horizontal Scaling
+|Vertical Scaling |Horizontal Scaling |
+--- | --- | 
+|Point of failure|Resilient|
+|Limited Hardware| No limitation|
+|Fast because of inter process communication|slow because of communication calls|
+|Data consistent | Data inconsistent|
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
